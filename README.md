@@ -1,4 +1,4 @@
 # nadpis
 ### ahoj jak se máme 
-dnes je pondělí a já tase nvm o co jde
+dnes je pondělí a já zase nvm o co jde
 
